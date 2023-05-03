@@ -1,26 +1,6 @@
-# play_store
+<img src="https://user-images.githubusercontent.com/121219334/235917396-b70823b9-ecfa-4ff8-92d1-e3a084d122ec.jpg" height="650px" >
+<img src="https://user-images.githubusercontent.com/121219334/235917410-1cfdb374-7b86-4b03-a8d8-ba7079ef8ee4.jpg" height="650px" >
+<img src="https://user-images.githubusercontent.com/121219334/235917442-990165ba-294d-44b3-968b-39bc89f5f816.jpg" height="650px" >
+<img src="https://user-images.githubusercontent.com/121219334/235917426-0fa68ef2-d158-46ae-a6f1-a65747cdf116.jpg" height="650px" >
+<img src="" height="650px" >
 
-A new Flutter project.
-
-## Getting Started
-
-## screen started
-
-<img src = "https://user-images.githubusercontent.com/121150847/218325741-10e773aa-c7b4-49f6-8743-a16c855b3e3a.jpeg
-" height = 100px />
-<img src = "https://user-images.githubusercontent.com/121150847/218325798-1d0140f7-72cd-4bb7-adba-37600ce8f2e5.jpeg
-" height = 100px />
-<img src = "" height = 100px />
-<img src = "" height = 100px />
-
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
